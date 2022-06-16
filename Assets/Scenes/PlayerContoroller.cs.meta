@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: acfd17e63fe6589488ccc6fcf34d44cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_effectPrefab: {fileID: 7760656623973545852, guid: d21b1ef303ab68e41b5b29569d27a2c9, type: 3}
+  - m_muzzle: {fileID: 3226700177340460224, guid: 636c0d73d54d1f64ba2d937307acc3e7, type: 3}
+  - m_bulletPrefab: {fileID: 5596437288110793177, guid: fee93014ecc4aaa4f95882cff79c0a94, type: 3}
+  - m_crosshair: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
